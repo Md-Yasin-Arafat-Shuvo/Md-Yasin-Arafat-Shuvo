@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-yasin-arafat-shuvo" alt="md-yasin-arafat-shuvo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yas_i_n_" target="blank"><img src="https://img.shields.io/twitter/follow/xerxes_yasin?logo=twitter&style=for-the-badge" alt="xerxes_yasin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yas_i_n_" target="blank"><img src="https://img.shields.io/twitter/follow/yas_i_n_?logo=twitter&style=for-the-badge" alt="yas_i_n_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

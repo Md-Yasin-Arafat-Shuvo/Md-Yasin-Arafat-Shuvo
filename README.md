@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-yasin-arafat-shuvo&show_icons=true&locale=en" alt="md-yasin-arafat-shuvo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-yasin-arafat-shuvo&" alt="md-yasin-arafat-shuvo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=md-yasin-arafat-shuvo&" alt="md-yasin-arafat-shuvo" /></p>

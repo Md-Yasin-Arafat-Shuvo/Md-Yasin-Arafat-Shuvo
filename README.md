@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-yasin-arafat-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="md-yasin-arafat-shuvo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-yasin-arafat-shuvo" alt="md-yasin-arafat-shuvo" /></a> </p>
+<p align="left"><a href="https://github.com/md-yasin-arafat-shuvo/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-yasin-arafat-shuvo" alt="md-yasin-arafat-shuvo" /></a></p>
+
 
 <p align="left"> <a href="https://twitter.com/yas_i_n_" target="blank"><img src="https://img.shields.io/twitter/follow/yas_i_n_?logo=twitter&style=for-the-badge" alt="yas_i_n_" /></a> </p>
 
